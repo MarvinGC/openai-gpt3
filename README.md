@@ -1,4 +1,4 @@
-# Plantilla de página web sobre gpt-3 Open AI
+# GPT-3 Open AI plantilla de página web
 
 ### [Visita la página](https://proyecto1.marvingcdev.ml/)
 
